@@ -1,0 +1,43 @@
+venv/
+__pycache__/
+*.spec
+build/
+dist/
+*.exe
+*.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# Build files
+build/
+dist/
+*.spec
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NuGet
+**/packages/
+*.nupkg
+
+# Build outputs
+bin/
+obj/
+
+# Executables
+*.exe
+*.dll
+
+# User-specific
+.gitconfig
+.vs/
