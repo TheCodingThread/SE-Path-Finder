@@ -23,6 +23,7 @@ A desktop-based route navigation application built using **Python**, **Tkinter**
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 📦 Download (Windows)
 
