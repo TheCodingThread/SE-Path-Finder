@@ -23,3 +23,9 @@ A desktop-based route navigation application built using **Python**, **Tkinter**
 
 ```bash
 pip install -r requirements.txt
+
+## 📦 Download (Windows)
+
+You can download the Windows executable from the **Releases** section:
+
+👉 https://github.com/TheCodingThread/SE-Path-Finder/releases
